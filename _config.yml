@@ -1,0 +1,28 @@
+name: Services
+favicon: null
+layout_spectrum: 0.9264462199062109
+typography_spectrum: 0.9184332299046218
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6659914879128337
+  lightness: 0.8019547155126929
+  saturation: 0.05209244741126895
+  rhythmicContrast: 0.849412560928613
+purpose: []
